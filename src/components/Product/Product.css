@@ -1,0 +1,27 @@
+.product{
+    display: flex;
+    border-bottom: 2px solid rgb(151, 151, 165);
+    margin-right: 5px;
+    padding-bottom: 10px;
+   
+}
+
+.prooduct-name{
+    color: rgb(6, 28, 58);
+    font-weight: 400;
+  
+}
+.btn-reguler{
+    background-color: goldenrod;
+    width: 150px;
+    height: 30px;
+    border-radius: 5px;
+    border: 1px solid lightgrey;
+    cursor: pointer;
+
+}
+.btn-reguler:hover{
+    text-transform: uppercase;
+    box-shadow: 3px 3px 3px gray;
+    
+}
